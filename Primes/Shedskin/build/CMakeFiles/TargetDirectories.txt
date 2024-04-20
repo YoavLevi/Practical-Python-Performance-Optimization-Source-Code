@@ -1,0 +1,5 @@
+/home/dylan/Desktop/Primes/Shedskin/build/CMakeFiles/shedskin_find_n_primes-ext.dir
+/home/dylan/Desktop/Primes/Shedskin/build/CMakeFiles/find_n_primes-ext.dir
+/home/dylan/Desktop/Primes/Shedskin/build/CMakeFiles/test.dir
+/home/dylan/Desktop/Primes/Shedskin/build/CMakeFiles/edit_cache.dir
+/home/dylan/Desktop/Primes/Shedskin/build/CMakeFiles/rebuild_cache.dir
