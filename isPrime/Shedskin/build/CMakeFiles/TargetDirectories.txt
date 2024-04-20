@@ -1,0 +1,5 @@
+/home/dylan/Desktop/isPrime/Shedskin/build/CMakeFiles/shedskin_utils-ext.dir
+/home/dylan/Desktop/isPrime/Shedskin/build/CMakeFiles/utils-ext.dir
+/home/dylan/Desktop/isPrime/Shedskin/build/CMakeFiles/test.dir
+/home/dylan/Desktop/isPrime/Shedskin/build/CMakeFiles/edit_cache.dir
+/home/dylan/Desktop/isPrime/Shedskin/build/CMakeFiles/rebuild_cache.dir

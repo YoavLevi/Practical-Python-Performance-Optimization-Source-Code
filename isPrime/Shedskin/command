@@ -1,0 +1,1 @@
+shedskin build --long -e utils.py

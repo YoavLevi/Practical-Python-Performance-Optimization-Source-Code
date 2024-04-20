@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -dynamic -shared  -o utils.so CMakeFiles/utils-ext.dir/ext/utils.cpp.o CMakeFiles/utils-ext.dir/usr/local/lib/python3.10/dist-packages/shedskin-0.9.8-py3.10.egg/shedskin/lib/builtin.cpp.o   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lgc -lgccpp 
